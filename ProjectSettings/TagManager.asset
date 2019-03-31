@@ -7,6 +7,11 @@ TagManager:
   - Fire
   - Tree
   - Soil
+  - trap
+  - Aquila
+  - CheckPoint
+  - Body
+  - Weapon
   layers:
   - Default
   - TransparentFX
@@ -19,8 +24,8 @@ TagManager:
   - PostProcessing
   - Environment
   - Tree
-  - 
-  - 
+  - EnemyDamage
+  - PlayerDamage
   - 
   - 
   - 
